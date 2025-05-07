@@ -1,0 +1,667 @@
+[{
+  "_id": "CS 100",
+  "name": "Introduction to Programming Concepts and Languages",
+  "hours": "3 hours",
+  "description": "An introduction to programming concepts and languages for non-Computer Science (CS) majors. Topics include the structure and design of algorithms, variables, constants, data types, arithmetic operations, selection and repetition structures, functions, input/output, arrays, structures, files, libraries. Students will design, write, test and run computer programs using a modern programming language as the development tool. Prerequisite: MTH 109 or the mathematics placement exam score is at least 61."
+},
+{
+  "_id": "CS 101",
+  "name": "Introduction to Programming",
+  "hours": "4 hours",
+  "description": "Introduces the fundamental concepts of programming from an object-oriented perspective. Topics include simple data types, control structures (if-else loops, switch statements), introduction to array and string data structures, algorithms, debugging and testing techniques, and social implications of computing. The course emphasizes good software engineering principles and practices, breaking the programming process into analysis, design, implementation, and testing, with primary focus on implementation and development of fundamental programming skills. Prerequisite: MTH 109 or the mathematics placement exam score is at least 61."
+},
+{
+  "_id": "CS 102",
+  "name": "Data Structures",
+  "hours": "3 hours",
+  "description": "Introduction to concepts of object-oriented programming with review of control structures and data types and array processing. Introduction to the object-oriented programming paradigm, focusing on the definition and use of classes along with the fundamentals of object-oriented design. Overview of programming principles, simple analysis of algorithms, searching and sorting techniques, and an introduction to software engineering issues. Prerequisite: A grade of C or better in CS 101."
+},
+{
+  "_id": "CS 140",
+  "name": "Advanced Programming Concepts and Languages",
+  "hours": "3 hours",
+  "description": "Advanced programming concepts and languages appropriate to computer science and computer information systems. Topics include dynamic memory management, garbage collection, advanced object-oriented concepts, generic programming, exception handling, recursion, overloading. Prerequisite: A grade of C or better in CS 102."
+},
+{
+  "_id": "CS 141",
+  "name": "Introduction to Python Programming",
+  "hours": "3 hours",
+  "description": "An introduction to programming in Python for non-CS majors. Topics include basic conditional logic, string manipulation, functions, reading/writing with simple files and exceptions. Popular data structures like sets, tuples, lists and dictionaries will be covered. Packages like pandas and numpy will also be presented. Students will design, write, test and run computer programs using Python and within an integrated development environment."
+},
+{
+  "_id": "CS 210",
+  "name": "Advanced Data Structures and Algorithms",
+  "hours": "3 hours",
+  "description": "Advanced topics in object-oriented programming with an emphasis on advanced data structures, algorithms, and software development. Prerequisite: A grade of C or better in CS 140 or equivalent; MTH 120 or equivalent."
+},
+{
+  "_id": "CS 215",
+  "name": "Computability, Formal Languages, and Heuristics",
+  "hours": "3 hours",
+  "description": "Theory of computation and formal languages, grammars, computability, complexity, algorithms, heuristics, and foundations of intelligent systems. Prerequisite: CS 210 or CIS 210 or equivalents; MTH 122 or equivalent."
+},
+{
+  "_id": "CS 220",
+  "name": "Computer Architecture",
+  "hours": "3 hours",
+  "description": "Basics of logic circuit design, modern processor architecture, and assembly language. Overview of principle issues of internal system architecture, including memory, buses, and peripherals. Prerequisite: CS 140 or equivalent."
+},
+{
+  "_id": "CS 321",
+  "name": "Operating Systems",
+  "hours": "3 hours",
+  "description": "Fundamentals of operating systems concepts, design, and implementation. Topics include operating system components and structures, process and thread model, mutual exclusion and synchronization, scheduling algorithms, memory management, I/O controls, file systems, and security. Prerequisite: CS 220."
+},
+{
+  "_id": "CS 330",
+  "name": "Net-Centric Computing",
+  "hours": "3 hours",
+  "description": "Fundamentals of data communications: data transmission, data encoding, digital data communication techniques, data link control, and multiplexing. The Web as a client-server system, building Web applications, network management and security, compression and decompression. Multimedia data technologies, wireless and mobile computing, and event-driven programming. Prerequisite: CS 210 or CIS 210 or equivalent."
+},
+{
+  "_id": "CS 360",
+  "name": "Fundamentals of Data Science",
+  "hours": "3 hours",
+  "description": "Introduction to the knowledge acquisition and discovery process. Cleaning and analyzing data, building machine learning models, model validation and testing, and visualization. A number of machine learning algorithms are introduced such as regression, naive Bayes, decision trees, association rules, and clustering. Feature selection and transformation. Programming languages, popular in data science, such as Python are covered at an accelerated pace, as the course assumes as prerequisites two semesters of programming. Emphasis is on the use of such languages for data analysis and modeling. Prerequisite: CS 101 and CS 102 or equivalent; one semester of calculus; one semester of statistics. MTH 111 does not count as fulfilling the statistics requirement."
+},
+{
+  "_id": "CS 370",
+  "name": "Database Management Systems",
+  "hours": "3 hours",
+  "description": "Relational database design, including entity relationship modeling and normalization. Structured query language (SQL) for creating and querying databases. Other topics include the theory of relational databases, including relational algebra, various loading and reporting utilities, and the implementation of database management systems, e.g. how query optimization works. Prerequisite: Junior Standing; CS 140 or CS 360 or equivalent; or consent of instructor."
+},
+{
+  "_id": "CS 390",
+  "name": "Introduction to Software Engineering",
+  "hours": "3 hours",
+  "description": "Software life cycle and its phases, analysis, process models, design, human-computer interaction and graphic user interface development, testing, verification, validation, tools and applications, and evolution of software systems. Prerequisite: CS 210 or CIS 210 or equivalent."
+},
+{
+  "_id": "CS 461",
+  "name": "Artificial Intelligence",
+  "hours": "3 hours",
+  "description": "Pattern recognition, search strategies, game playing, knowledge representation; logic programming, uncertainty, vision, natural language processing, robotics, programming in LISP and PROLOG. Advanced topics in artificial intelligence. Cross-listed with CS 561. Prerequisite: CS 210 or equivalent. Consent of instructor for all other."
+},
+{
+  "_id": "CS 462",
+  "name": "Machine Learning",
+  "hours": "3 hours",
+  "description": "Machine learning and intelligent systems. Covers the major approaches to ML and IS building, including the logical (logic programming and fuzzy logic, covering ML algorithms), the biological (neural networks and deep learning, genetic algorithms), and the statistical (regression, Bayesian and belief networks, Markov models, decision trees and clustering) approaches. Students use ML to discover the knowledge base and then build complete, integrated, hybrid intelligent systems for solving problems in a variety of applications. Cross-listed with CS 562. Prerequisite: CS 210; CS 360; a course in calculus-based statistics: for example, MTH 325 or IME 311 or equivalent or consent of instructor."
+},
+{
+  "_id": "CS 463",
+  "name": "Knowledge Discovery and Data Mining",
+  "hours": "3 hours",
+  "description": "Brings together the latest research in statistics, databases, machine learning, and artificial intelligence that are part of the rapidly growing field of knowledge discovery and data mining. Topics covered include algorithms for the data cleansing and preprocessing phase (holes, outliers, attribute selection and transformation, etc.), selected supervised machine learning algorithms for modeling forecasting and classification, selected unsupervised machine learning algorithms, trend and deviation analysis, dependency modeling, integrated discovery and ensemble systems, meta-processing (boosting, stacking, etc.) and application case studies. Cross-listed with CS 563. Prerequisite: CS 210 or CS 360 or equivalent, and a calculus-based course in statistics, for example, IME 311 or MTH 325 or equivalent."
+},
+{
+  "_id": "CS 472",
+  "name": "Distributed Databases and Big Data",
+  "hours": "3 hours",
+  "description": "Designing and building enterprise-wide data warehouses. Cover topics related to large, distributed databases, including designing distributed databases, replicating data, and concurrency. NoSQL, object-oriented, multimedia databases and their query languages. Next generation database systems, data warehousing, and OLAP. Applications using distributed databases like Hadoop and its associated machine learning libraries. Cross-listed with CS 572. Prerequisite: CS 370, CS 210 or CS 360 or equivalent."
+},
+{
+  "_id": "CS 480",
+  "name": "Social and Professional Issues in Computing",
+  "hours": "2 hours",
+  "description": "Introduction to the social and professional issues and practices that arise in the context of computing. Prerequisite: Reserved for CS/CIS majors and minors; Junior Standing; CS 101; or consent of instructor."
+},
+{
+  "_id": "CS 481",
+  "name": "Professional Practicum in Computer Science",
+  "hours": "0-3 hours",
+  "description": "Special projects under staff supervision on professional practicum in computer science, with near-term economic benefit. Repeatable to a maximum of 3 credit hours. Prerequisite: CS or CIS junior or senior student in good standing; consent of department chair."
+},
+{
+  "_id": "CS 490",
+  "name": "Capstone Project I",
+  "hours": "3 hours",
+  "description": "Applies the concepts and skills learned by undergraduate computer science majors at Bradley University. Students are required to work on a team on a significant software project. Prerequisite: Senior standing; CS 390 and CS 370 and CIS 393 recommended."
+},
+{
+  "_id": "CS 491",
+  "name": "Capstone Project II",
+  "hours": "3 hours",
+  "genEd": "EL",
+  "description": "Applies the concepts and skills learned by undergraduate computer science majors at Bradley University. Students are required to work on a team on a significant software project. Prerequisite: CS 490."
+},
+{
+  "_id": "CS 493",
+  "name": "Agile Software Development",
+  "hours": "3 hours",
+  "description": "Agile methodology, agile methods, and agile software engineering, including framework activities, SDLC models, requirements analysis, architectures, services, integrated development environments, testing, and quality issues. Cross listed with CS 593. For cross listed undergraduate/graduate courses, the graduate level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: CS 390 or equivalent; or consent of instructor."
+},
+{
+  "_id": "CS 497",
+  "name": "Topics in Computer Science",
+  "hours": "3 hours",
+  "description": "Topics of special interest in computer science area which may vary each time course is offered. Repeatable under a different topic for a maximum of six semester hours. Prerequisite: Consent of instructor."
+},
+{
+  "_id": "CS 498",
+  "name": "Directed Individual Studies in Computer Science",
+  "hours": "1-3 hours",
+  "description": "Individual study or research/development project under supervision of a CS&IS faculty member. May be repeated under a different topic once. Repeatable to a maximum of six semester hours. Prerequisite: Consent of instructor."
+},
+{
+  "_id": "CS 502",
+  "name": "Advanced Programming",
+  "hours": "3 hours",
+  "description": "Introduces the fundamental concepts of programming from an object-oriented perspective with emphasis on advanced programming skills and good software development principles in a closed laboratory setting. Covers topics including object-oriented paradigm, design and programming, fundamental data structures and computing algorithms, and software development principles. If needed, course should be taken during first regular semester at Bradley. Credit for this course does not count towards graduation requirements in any graduate program within the Department of Computer Science and Information Systems. Prerequisite: Graduate standing in CS or CIS. Consent of graduate program coordinator; at least two semesters of programming experience."
+},
+{
+  "_id": "CS 503",
+  "name": "Programming Methodology",
+  "hours": "3 hours",
+  "description": "Predicate calculus, Dijkstra's methodology of algorithm development. Algorithm development. Algorithmic language characteristics; syntax, semantics. Postconditions and preconditions. Verification of postcondition states satisfied by algorithmic programs executed from preconditions. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or a grade of C or better in both MTH 120 and CS 102."
+},
+{
+  "_id": "CS 510",
+  "name": "Numerical Methods",
+  "hours": "3 hours",
+  "description": "Introduction to numerical and computational aspects of various mathematical topics: finite precision, solutions to nonlinear equations, and interpolation, approximation, linear systems of equations, and integration. Cross listed as MTH 510. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or CS 101 and MTH 207 and MTH 223."
+},
+{
+  "_id": "CS 511",
+  "name": "Numerical Methods II",
+  "hours": "3 hours",
+  "description": "Continuation of CS/MTH 510: further techniques of integration, ordinary differential equations, numerical linear algebra, nonlinear systems of equations, boundary value problems, and optimization. Cross listed as MTH 511. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS; or MTH 224 or MTH 345, and CS 510 or MTH 510."
+},
+{
+  "_id": "CS 514",
+  "name": "Algorithms",
+  "hours": "3 hours",
+  "description": "Design and analysis of algorithms. Dynamic structures maintenance and hashing. Searching, sorting, and traversal. Time and space requirements; simplification; computational complexity; proof theory and testing; NP-hard and NP-complete problems. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or CS 210 or CIS 210 or equivalent and one semester of statistics."
+},
+{
+  "_id": "CS 516",
+  "name": "Programming Languages",
+  "hours": "3 hours",
+  "description": "Design concepts of high-level languages. Description languages; grammars and syntax; expressions and data structures; selection and control structures; constructs for input and output; subprograms and parameter communications. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or CS 210 or CS 310 or equivalents."
+},
+{
+  "_id": "CS 518",
+  "name": "Programming Language Translation",
+  "hours": "3 hours",
+  "description": "Overview of programming language translation with emphasis on modern compiler construction. Lexical analysis, parsing, syntax and semantic analysis, code generation, garbage collection, and optimization. Prerequisite: Grade of C or better in CS 210 or CIS 210 or equivalent."
+},
+{
+  "_id": "CS 520",
+  "name": "Advanced Computer Architecture",
+  "hours": "3 hours",
+  "description": "Fundamental computer sub-systems: central processing unit; memory systems; control and input/output units. General purpose computing systems design. Examples from existing typical computers. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or CS 220 or equivalent."
+},
+{
+  "_id": "CS 531",
+  "name": "Web Development Technologies",
+  "hours": "3 hours",
+  "description": "Introduction to PERL/CGI, XHTML, XML, JavaScript and scripting languages. Web page design and layout. Client and server side development of web applications. Database connectivity, Java Database Connectivity (JDBC). Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or CS 102 or equivalent."
+},
+{
+  "_id": "CS 532",
+  "name": "Advanced Java Computing",
+  "hours": "3 hours",
+  "description": "Developing Web-based systems using J2EE Java technologies. Topics include Java Security, Java GUI development using IDE, Java Servlets and JavaServer Pages, Java Enterprise JavaBeans, XML and Java Web Services, and Java Transaction Service and Java Message Service. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or CS 531 or equivalent."
+},
+{
+  "_id": "CS 541",
+  "name": "Python Programming for Data Science",
+  "hours": "3 hours",
+  "description": "This course will cover programming constructs and features, data structures for data storage, such as sets, tuples, lists, dictionaries, trees and graphs, and algorithms for sorting, information retrieval from tree and graph data structures and search techniques such as binary tree search, depth and breadth depth first search of graphs. The programming language used is Python. Packages like pandas and numpy will also be presented. Assignments will focus on Python programming for natural language processing, machine learning, and data science applications. Students will design, write, test and run computer programs using Python and within an integrated development environment. Prerequisite: Graduate standing in Data Science and Analytics. Not for CS or CIS students. This course does not count towards graduation requirements for the MS degree in Computer Science or Computer Information Systems."
+},
+{
+  "_id": "CS 560",
+  "name": "Fundamentals of Data Science",
+  "hours": "3 hours",
+  "description": "This course will combine two types of problem-solving: inferential thinking, and computational thinking applied to real-world problems. The course teaches critical concepts and skills in computer programming, at an accelerated pace, and an analysis of real-world datasets using statistical inference and a number of machine learning algorithms. The emphasis is on the use of tools and languages for data analysis and modeling. Prerequisite: Graduate students in Computer Science or Computer Information Systems or Data Science and Analytics, who have taken: one semester of calculus-based statistics (IME 511 or equivalent); two semesters of computer programming or CS 541 or CS 502."
+},
+{
+  "_id": "CS 561",
+  "name": "Artificial Intelligence",
+  "hours": "3 hours",
+  "description": "Pattern recognition, search strategies, game playing, knowledge representation; logic programming, uncertainty, vision, natural language processing, robotics, programming in LISP and PROLOG. Advanced topics in artificial intelligence. Cross-listed with CS 461. For cross-listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Graduate standing in CS or CIS. Consent of instructor for all other students with graduate standing."
+},
+{
+  "_id": "CS 562",
+  "name": "Machine Learning",
+  "hours": "3 hours",
+  "description": "Machine learning and intelligent systems. Covers the major approaches to ML and IS building, including the logical (logic programming and fuzzy logic, covering ML algorithms), the biological (neural networks and deep learning, genetic algorithms), and the statistical (regression, Bayesian and belief networks, Markov models, decision trees and clustering) approaches. Students use ML to discover the knowledge base and then build complete, integrated, hybrid intelligent systems for solving problems in a variety of applications. Cross listed with CS 462. For cross listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Graduate students in Computer Science or Computer Information Systems or Data Science and Analytics who have taken: CS 560 and two semesters of calculus."
+},
+{
+  "_id": "CS 563",
+  "name": "Knowledge Discovery and Data Mining",
+  "hours": "3 hours",
+  "description": "Brings together the latest research in statistics, databases, machine learning, and artificial intelligence that are part of knowledge discovery and data mining. Topics include algorithms for the data cleansing and preprocessing phase, selected supervised machine learning algorithms for modeling forecasting and classification, selected unsupervised machine learning algorithms, trend and deviation analysis, dependency modeling, integrated discovery and ensemble systems, meta-processing (boosting, stacking, etc.) and application case studies. Cross-listed with CS 463. For cross-listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Graduate students in CS or CIS or Data Science and Analytics who have taken one semester of calculus-based statistics, for example: IME 511 or equivalent."
+},
+{
+  "_id": "CS 571",
+  "name": "Database Management Systems",
+  "hours": "3 hours",
+  "description": "Relational database design, including entity relationship modeling and normalization. Structured query language (SQL) for creating and querying databases. Other topics include the theory of relational databases, including relational algebra, various loading and reporting utilities, and the implementation of database management systems, e.g., how query optimization works. Cross-listed with CIS 571. Prerequisite: Graduate standing in CS or CIS or Data Science and Analytics who have taken CS 541 or two semesters of computer programming."
+},
+{
+  "_id": "CS 590",
+  "name": "Fundamentals of Software Engineering",
+  "hours": "3 hours",
+  "description": "Software engineering: software product; prescriptive process models; system engineering; analysis modeling; design engineering; architectural design; user interface design; testing strategies and techniques; software systems' implementation; software systems' maintenance. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or CS 390 or equivalent."
+},
+{
+  "_id": "CS 591",
+  "name": "Software Project Management",
+  "hours": "3 hours",
+  "description": "Methods of PMBOK-based management of software systems design and development projects, including systems view, main project management process groups and knowledge areas, management plans, project metrics and estimates, tools for project management, project reports and documentation. Cross listed with CIS 491 and CIS 591 courses. For cross listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or CS 390 or equivalent, or consent of instructor."
+},
+{
+  "_id": "CS 593",
+  "name": "Agile Software Development",
+  "hours": "3 hours",
+  "description": "Agile methodology, agile methods, and agile software engineering, including framework activities, SDLC models, requirements analysis, architectures, services, integrated development environments, testing, and quality issues. Cross listed with CS 493. For cross listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or CS 390 or equivalent."
+},
+{
+  "_id": "CS 594",
+  "name": "Capstone Project for Data Science",
+  "hours": "3 hours",
+  "description": "Applies the concepts and skills learned by Data Science and Analytics graduate students at Bradley University. Students are required to work on a team on a significant Data Science project. Prerequisite: Graduate Standing in Data Science and Analytics-Computational Data Science concentration (DSA-CD). Taken in the last semester of enrollment."
+},
+{
+  "_id": "CS 612",
+  "name": "Automata, Computation and Complexity",
+  "hours": "3 hours",
+  "description": "Theory of formal languages and computability, Automata, Turing machines, grammars. Context free and context sensitive languages; parsing. Recursion theory; limits of effective computability, P and NP class of problems, NP-complete problems. Non Turing computable problems, reducibility, complexity. Prerequisite: Graduate standing in CS or CIS, or CS 502 or equivalent."
+},
+{
+  "_id": "CS 625",
+  "name": "Operating Systems Design",
+  "hours": "3 hours",
+  "description": "Advanced concepts in operating system design. Topics include process and thread management, virtual memory, interprocess communication, distributed systems, parallel and distributed file system designs, resource management, and security and protection. Prerequisite: Graduate standing in CS or CIS, or CS 321 or equivalent."
+},
+{
+  "_id": "CS 635",
+  "name": "Data Communications and Networks",
+  "hours": "3 hours",
+  "description": "Fundamentals of data communication, computer network architectures and protocols, wireless networks, network programming, and network security. Emphasis on OSI, TCP/IP, ATM, and IEEE 802 LAN layered architectures, and TCP/IP network programming. Prerequisite: Graduate standing in CS or CIS, or CS 330 or equivalent."
+},
+{
+  "_id": "CS 681",
+  "name": "Professional Practicum in Computer Science",
+  "hours": "0 hours",
+  "description": "Special projects under Smith Career Center supervision on student's professional practicum in corporate/business environment in computer science, with near-term economic benefit. Satisfactory/Unsatisfactory. Minimum of 5-10 hours per week required. Prerequisite: Graduate CS or CIS student in good standing; consent of department chair and graduate program director."
+},
+{
+  "_id": "CS 690",
+  "name": "Advanced Topics in Software Engineering",
+  "hours": "3 hours",
+  "description": "Special software engineering research and development projects under staff supervision. Emphasis on a specific topic and emerging technologies in the software engineering area. Prerequisite: Graduate standing in CS or CIS, or CS 590 or CS 591 or equivalents, or consent of instructor."
+},
+{
+  "_id": "CS 697",
+  "name": "Advanced Topics in Computer Science",
+  "hours": "3 hours",
+  "description": "Special projects under staff supervision on advanced problems in numerical or non-numerical branches of computer science. May be taken more than once under different topics for a maximum of 6 semester hours. Prerequisite: Consent of instructor."
+},
+{
+  "_id": "CS 698",
+  "name": "Directed Individual Studies in Computer Science",
+  "hours": "1-3 hours",
+  "description": "Individual study in an area of computer science relevant to the student's professional goals and not covered in a formal course offered by the department. May be repeated twice for a maximum of 6 credit hours. Prerequisite: Consent of instructor."
+},
+{
+  "_id": "CS 699",
+  "name": "Thesis in Computer Science",
+  "hours": "0-6 hours",
+  "description": "For graduate students in Computer Science (CS) or Data Science and Analytics-Computational Data Science concentration (DSA-CD). Computer Science or Data Science research and thesis preparation. Required of candidates choosing the thesis option. Total of 6 semester hrs. to be taken in one or two semesters. Any semester after the six hours, the student must register for zero hours to maintain progress, after the thesis advisor's and department chair's approval. Prerequisite: Consent of department chair."
+},
+{
+  "_id": "CIS 102",
+  "name": "Introduction to Computer Information Systems With Basic",
+  "hours": "3 hours",
+  "description": "Fundamental concepts of computer programming and design of algorithms. Problem solving using BASIC. Introduction to flow chart language and use of software packages. Functional limitations and capacities of computers."
+},
+{
+  "_id": "CIS 210",
+  "name": "Applications of Data Structures & Algorithms",
+  "hours": "3 hours",
+  "description": "Builds on previous CS 101, CS 102, and CS 140 courses in programming and focuses on applications of data structures, graphs and trees, algorithms, proof techniques, problem solving strategies, and file structures in programming, software development, and computer information systems. Prerequisite: grade of C or better in both CS 102 and CS 140 or equivalents; MTH 120 or equivalent."
+},
+{
+  "_id": "CIS 215",
+  "name": "Introduction to Scripting Languages",
+  "hours": "3 hours",
+  "description": "A non-technical introduction to the use of scripting languages in a web-based environment. An overview of current scripting languages such as Javascript, VBScript, and PERL. Prerequisite: CS 101."
+},
+{
+  "_id": "CIS 230",
+  "name": "Introduction to Computer Forensics",
+  "hours": "3 hours",
+  "description": "Provides an overview of computer forensics, investigation techniques, and relevant laws. Covers computer operating system architectures and disk structures and their relevance to computer forensics. Cross listed as CRM 230. Prerequisite: previous computer class or consent of instructor."
+},
+{
+  "_id": "CIS 300",
+  "name": "Computers and Society",
+  "hours": "3 hours",
+  "description": "Gen. Ed. TS Core Curr. GP GS. History of computers; their use, limitations, and impact on society; Internet and the World Wide Web; creation of Web content. Prerequisite: Not eligible for CS or CIS majors; Reserved for non-CS/CIS majors/non-minors; Junior standing; or consent of instructor."
+},
+{
+  "_id": "CIS 330",
+  "name": "Advanced Computer Forensics",
+  "hours": "3 hours",
+  "description": "Provides students an extensive look at computer forensics and formal techniques used in computer forensics in a lab environment. Formal techniques for conducting a computer forensics investigation including record-keeping are covered. Students will conduct computer forensic exams and participate in practical computer forensic examination exercises. Cross listed as CRM 330. Prerequisite: CIS 230 or CRM 230."
+},
+{
+  "_id": "CIS 350",
+  "name": "Foundations of Game Programming",
+  "hours": "3 hours",
+  "description": "Game development for programmers. Creating playable game prototypes with C# and the Unity game engine, from initial sketches and game design documents through implementation, player testing, and improvement based on testing. Topics covered include game design brainstorming, game design documents, version control with GitHub, player input and movement, physics forces, colliders, triggers, and spawning objects. Additional topics may include raycasts, executing methods over time, object-oriented programming with C# and the Unity game engine, singletons, creating user-interfaces and menus, building 2D and 3D levels, gameplay balancing, and pathfinding. Prerequisite: CS 140 or consent of instructor."
+},
+{
+  "_id": "CIS 393",
+  "name": "Web Technologies & Systems",
+  "hours": "3 hours",
+  "description": "Introduction to Web technologies and systems. Emphasis on design, development, testing, implementation, and applications of Web-based systems and technologies including related software, data exchange protocols, interfaces, and tools. Prerequisite: CIS 210 or CS 210 or equivalent; or consent of instructor. CS 220 is strongly recommended."
+},
+{
+  "_id": "CIS 415",
+  "name": "Applied Cryptography",
+  "hours": "3 hours",
+  "description": "Various concepts, algorithms, and systems in the area of applied cryptography. Topics include but are not limited to overview of classical cryptography, various types of cryptographic algorithms and systems, block ciphers, advanced encryption standards, key management, digital certificates, design and development of cryptographic applications. Cross-listed with CIS 515. Prerequisite: CS 210 or CIS 210 or equivalent; or consent of instructor."
+},
+{
+  "_id": "CIS 430",
+  "name": "Information Technology Infrastructure",
+  "hours": "3 hours",
+  "description": "Enterprise information technology infrastructure including networking and telecommunications fundamentals, concepts, models, architectures, protocols, standards, communications, configuration, implementation, management, deployment software, firmware, hardware, distributed systems, file services, and software/hardware/network security issues. Cross-listed with CIS 530. Prerequisite: CS 220 or equivalent; or consent of instructor. CIS 393 is strongly recommended."
+},
+{
+  "_id": "CIS 433",
+  "name": "Mobile and Wireless Networks",
+  "hours": "3 hours",
+  "description": "Fundamental concepts and technologies in mobile and wireless networks, medium access control, wireless LAN, PAN, and WAN, infrastructure-based mobile networks, ad hoc routing protocols, mobile transport layer, handoff in mobile and wireless networks, wireless application protocols, wireless sensor networks. Cross listed with CIS 533. For cross listed undergraduate/graduate courses, the graduate level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: CS 330 or CIS 430, or equivalents."
+},
+{
+  "_id": "CIS 435",
+  "name": "Computer Networks and System Security",
+  "hours": "3 hours",
+  "description": "Principles, concepts, and fundamentals of computer networks and systems; and information technology infrastructure security, computer network authentication, authorization, access control, confidentiality, and data integrity. Topics of computer network security policy and management, data encryptions, protection against internal and external attacks, security evaluation and management will also be covered. Cross listed with CIS 535. Prerequisite: CS 220 or equivalent; or consent of instructor."
+},
+{
+  "_id": "CIS 445",
+  "name": "Integrative Programming and Technology",
+  "hours": "3 hours",
+  "description": "Data mapping and exchange: metadata, XML, encoding schemes, data stream transformations, and data integration and exchange between computer systems. Integrative programming and technology: design patterns, interfaces, inheritance, reusability, and security practices. Computer information systems integration: architectures, socket programming, Web services, message and queuing services. Cross listed with CIS 545. Prerequisite: CS 220 or equivalent; or consent of instructor. CIS 393 is strongly recommended."
+},
+{
+  "_id": "CIS 446",
+  "name": "Advanced Mobile Programming",
+  "hours": "3 hours",
+  "description": "Advanced programming concepts, languages and technology relevant to mobile software systems and mobile computing, including data structures, databases, file systems, objects, classes, I/O operations, SDKs, IDEs, services, networking and development of mobile software systems. Cross listed with CIS 546. For cross listed undergraduate/graduate courses, the graduate level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: CS 321 or CIS 445, or equivalents; or consent of instructor."
+},
+{
+  "_id": "CIS 450",
+  "name": "Game Programming Design Patterns",
+  "hours": "3 hours",
+  "description": "Software design patterns and principles for game programming. Software design patterns are tried-and-true solutions to common object-oriented design problems. The goal of this course is to develop the skills to use design patterns effectively for game programming, guided by software design principles. Students will learn when and how to apply software design patterns through practice by designing and implementing game prototypes using Unified Modeling Language (UML) class diagrams and a game engine. Covered design patterns include Strategy, Observer, Decorator, Factory, Command, Template Method, State, Fa ade, Singleton, and Object Pooling. Cross-listed with CIS 550. Prerequisite: CIS 350 or I M 289 or consent of instructor."
+},
+{
+  "_id": "CIS 451",
+  "name": "Computer Game Design",
+  "hours": "3 hours",
+  "description": "Gameplay, storytelling, challenges, interface and information design, and world interaction. Construction of experiences, including rule design, play mechanics, game balancing, social game interaction, and the integration of interactive media. Playtesting and game design documentation. Cross listed with IM 451, CIS 551. For cross listed undergraduate/graduate courses, the graduate level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Junior standing; IM 113, IM 115, IM 285, and IM 260; or CS101, CS102, and CS140; or consent of instructor."
+},
+{
+  "_id": "CIS 452",
+  "name": "Computer Game Modification",
+  "hours": "3 hours",
+  "description": "Software development and programming aspects of computer games, game engine modification, and virtual reality simulations, including event loops, execution threads, collision detection, multi-threading, performance analysis, multi-user games and networking. Cross listed with CIS 552, IM 452. Prerequisite: junior standing, CS 101, CS 102, CS 140; or consent of instructor."
+},
+{
+  "_id": "CIS 453",
+  "name": "Concepting and Storytelling for Game Design",
+  "hours": "3 hours",
+  "description": "Process of narrative and interactive development. Students will work individually and in small groups learning how to write, pre-visualize, present, and produce their interactive experiences, narratives, and games. Cross listed with CIS 553. For cross listed undergraduate/graduate courses, the graduate level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Junior standing, or IM 113 and IM 115 and IM 160 and IM 285 and IM 260, or consent of instructor."
+},
+{
+  "_id": "CIS 455",
+  "name": "Computer Graphics",
+  "hours": "3 hours",
+  "description": "Introduction to the theory and implementation of computer graphics with 2D and 3D applications in computer gaming, including 2D and 3D graphic primitives and objects, OpenGL, geometric transformations, image synthesis, rendering and lighting, and virtual environments. Cross listed with CIS 555, IM 455. Prerequisite: junior standing, CS 101, CS 102, CS 140; or consent of instructor."
+},
+{
+  "_id": "CIS 456",
+  "name": "Game Engine Programming",
+  "hours": "3 hours",
+  "description": "Advanced techniques and technologies for programming computer game engines, multi-user games, virtual environments, and virtual reality simulations. Cross listed with CIS 556, IM 456. Prerequisite: junior standing, CIS 452, CIS 455; or consent of instructor."
+},
+{
+  "_id": "CIS 457",
+  "name": "Digital Animation",
+  "hours": "3 hours",
+  "description": "A studio course exploring computer modeling and animation. Survey of the theory, history, and practice involved with creating quality modeling for print media, and also modeling and animation for time-based audio-visual media. Cross listed with CIS 557, IM 457. Prerequisite: junior standing, ART 105, ART 106, IM 285; or consent of instructor."
+},
+{
+  "_id": "CIS 458",
+  "name": "Sound Design",
+  "hours": "3 hours",
+  "description": "Theoretical and practical sound design. Music composition, field sound recording, studio tracking, aesthetic analysis of music, electronic sound generation. Digital game technologies, 3D sound processing and generative audio structures. Mixing in non-linear environments and final mastering. Cross listed with CIS 558, IM 458. Prerequisite: junior standing, IM 113, IM 285; or consent of instructor."
+},
+{
+  "_id": "CIS 459",
+  "name": "Computer Game Capstone Project",
+  "hours": "3 hours",
+  "description": "Game development, including advanced game design, software development, and game production concepts. Integration of audio, visual, storytelling, programming, and design. Project builds within multi-disciplinary teams. Cross listed with CIS 559, IM 459. For cross-listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Completion of all other coursework in game design minor or computer game technology minor; or completion of all other coursework in game design concentration or computer game technology concentration; or consent of instructor."
+},
+{
+  "_id": "CIS 475",
+  "name": "Computer Information Systems Analysis, Design and Integration",
+  "hours": "3 hours",
+  "description": "Computer information systems analysis, design and integration including enterprise computer information systems types and architecture models, sourcing, development methodologies and life cycle, requirements, analysis and design models, conceptual and logic data modeling, testing and quality assurance, validation and verification. Systems implementation, integration, deployment and maintenance, metrics and economics. Cross listed with CIS 575 course. Prerequisite: CIS 210 or CS 210 or equivalent; or consent of instructor."
+},
+{
+  "_id": "CIS 476",
+  "name": "Data Management",
+  "hours": "3 hours",
+  "description": "A study of techniques and processes to help organize, access, protect, and analyze data. Describe data collection, storage, and retrieval methods. Explain data integration and interoperability, including data transfer and exchange standards. Understand why it is important to define policies and procedures for data governance, quality, standards, security, and privacy. Describe different strategies for data analysis. Topics include data warehousing, database registries, data mining, NoSQL, and other Data Science techniques. Cross-listed with CIS 576. Prerequisite: CS 210 or CS 360 or equivalent."
+},
+{
+  "_id": "CIS 481",
+  "name": "Professional Practicum in Computer Information Systems",
+  "hours": "0-3 hours",
+  "description": "Special projects under staff supervision on professional practicum in computer information systems, with near-term economic benefit. Repeatable to a maximum of 3 credit hours. Prerequisite: CIS or CS junior or senior student in good standing; consent of department chair."
+},
+{
+  "_id": "CIS 491",
+  "name": "Computer Information System Project Management",
+  "hours": "3 hours",
+  "description": "Methods of PMBOK-based management of computer information software systems design and development projects, including systems view, main project management process groups and knowledge areas, management plans, project metrics and estimates, tools for project management, project reports and documentation. Cross listed with CS 591 and CIS 591 courses. Prerequisite: CIS 475 or CS 390; or consent of instructor."
+},
+{
+  "_id": "CIS 495",
+  "name": "Software and Web Applications Security",
+  "hours": "3 hours",
+  "description": "Concepts, models, methods, technologies, and tools used to design, develop, test, implement, and maintain secure software and Web applications. Threats posed to software and Web applications, software security concepts and protection mechanisms, trust and threat model, authentication and authorization, software risks assessment and management models, security management models for software and Web applications, secure programming and software development styles, tools to develop secure software and Web applications. Cross listed with CIS 595. Prerequisite: CS 390 or equivalent; or consent of instructor."
+},
+{
+  "_id": "CIS 497",
+  "name": "Topics in Computer Information Systems",
+  "hours": "3-6 hours",
+  "description": "Topics of special interest in computer information systems area which may vary each time course is offered. Repeatable under a different topic for a maximum of six semester hours. Prerequisite: consent of instructor."
+},
+{
+  "_id": "CIS 498",
+  "name": "Directed Individual Studies in Computer Information Systems",
+  "hours": "1-3 hours",
+  "description": "Individual study or research/development project under supervision of a CS/IS faculty member. May be repeated under a different topic once. Repeatable to a maximum of six semester hours. Prerequisite: Consent of instructor."
+},
+{
+  "_id": "CIS 515",
+  "name": "Applied Cryptography",
+  "hours": "3 hours",
+  "description": "Various concepts, algorithms, and systems in the area of applied cryptography. Topics include but are not limited to overview of classical cryptography, various types of cryptographic algorithms and systems, block ciphers, advanced encryption standards, key management, digital certificates, design and development of cryptographic computer and software applications. Cross listed with CIS 415. For cross listed undergraduate/graduate courses, the graduate level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or CS 210 or equivalent, or consent of instructor."
+},
+{
+  "_id": "CIS 530",
+  "name": "Information Technology Infrastructure",
+  "hours": "3 hours",
+  "description": "Enterprise information technology infrastructure including networking and telecommunications fundamentals, concepts, models, architectures, protocols, standards, communications, configuration, implementation, management, deployment software, firmware, hardware, distributed systems, file services, and software/hardware/network security issues. Cross listed with CIS 430. For cross-listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or CS 220 or equivalent, or consent of instructor. CIS 393 is strongly recommended."
+},
+{
+  "_id": "CIS 533",
+  "name": "Mobile and Wireless Networks",
+  "hours": "3 hours",
+  "description": "Fundamental concepts and technologies in mobile and wireless networks, medium access control, wireless LAN, PAN, and WAN, infrastructure-based mobile networks, ad hoc routing protocols, mobile transport layer, handoff in mobile and wireless networks, wireless application protocols, wireless sensor networks. Cross listed with CIS 433. For cross listed undergraduate/graduate courses, the graduate level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or CS 330 or CIS 530 or equivalents."
+},
+{
+  "_id": "CIS 535",
+  "name": "Computer Networks and System Security",
+  "hours": "3 hours",
+  "description": "Principles, concepts, and fundamentals of computer networks and systems; and information technology infrastructure security, computer network authentication, authorization, access control, confidentiality, and data integrity. Topics of computer network security policy and management, data encryptions, protection against internal and external attacks, security evaluation and management will also be covered. Cross listed with CIS 435. For cross listed undergraduate/graduate courses, the graduate level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or CS 220 or equivalent, or consent of instructor."
+},
+{
+  "_id": "CIS 545",
+  "name": "Integrative Programming and Technology",
+  "hours": "3 hours",
+  "description": "Data mapping and exchange: metadata, XML, encoding schemes, data stream transformations, data integration and exchange between computer systems. Integrative programming and technology: design patterns, interfaces, inheritance, reusability, and security practices. Computer information systems integration: architectures, socket programming, Web services, and message and queuing services. Cross listed with CIS 445. For cross listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or CS 220 or equivalent, or consent of instructor. CIS 393 or equivalent is strongly recommended."
+},
+{
+  "_id": "CIS 546",
+  "name": "Advanced Mobile Programming",
+  "hours": "3 hours",
+  "description": "Advanced programming concepts, languages and technology relevant to mobile software systems and mobile computing, including data structures, databases, file systems, objects, classes, I/O operations, SDKs, IDEs, services, networking and development of mobile software systems. Cross listed with CIS 446. For cross listed undergraduate/graduate courses, the graduate level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or CS 321 or CIS 545 or equivalents, or consent of instructor."
+},
+{
+  "_id": "CIS 550",
+  "name": "Game Programming Design Patterns",
+  "hours": "3 hours",
+  "description": "Using design patterns effectively for game programming, guided by software design principles. Software design patterns are tried-and-true solutions to common object-oriented design problems. Students will learn when and how to apply software design patterns through practice by designing and implementing game prototypes using Unified Modeling Language (UML) class diagrams and a game engine. Covered design patterns include Strategy, Observer, Decorator, Factory, Command, Template Method, State, Facade, Singleton, and Object Pooling. Cross-listed with CIS 450. For cross-listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: CIS 350 and graduate standing in CS or CIS. Consent of instructor for all other students with graduate standing."
+},
+{
+  "_id": "CIS 551",
+  "name": "Computer Game Design",
+  "hours": "3 hours",
+  "description": "Gameplay, storytelling, challenges, interface and information design, and world interaction. Construction of experiences, including rule design, play mechanics, game balancing, social game interaction, and the integration of interactive media. Playtesting and game design documentation. Cross listed with CIS 451, IM 451. For cross-listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or I M 113 and I M 115 and I M 285 and I M 260, or CS 101 and CS 102 and CS 140, or consent of instructor."
+},
+{
+  "_id": "CIS 552",
+  "name": "Computer Game Modification",
+  "hours": "3 hours",
+  "description": "Software development and programming aspects of computer games, game engine modification, and virtual reality simulations, including event loops, execution threads, collision detection, multi-threading, performance analysis, multi-user games and networking. Cross listed with CIS 452, IM 452. For cross-listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or CS 101 and CS 102 and CS 140, or consent of instructor."
+},
+{
+  "_id": "CIS 553",
+  "name": "Concepting and Storytelling",
+  "hours": "3 hours",
+  "description": "Process of narrative and interactive development. Students will work individually and in small groups learning how to write, pre-visualize, present, and produce their interactive experiences, narratives, and games. Cross listed with CIS 453. For cross-listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or I M 113 and I M 115 and I M 160 and I M 285 and I M 260, or consent of instructor."
+},
+{
+  "_id": "CIS 555",
+  "name": "Computer Graphics",
+  "hours": "3 hours",
+  "description": "Introduction to the theory and implementation of computer graphics with 2D and 3D applications in Computer Gaming, including 2D and 3D graphic primitives and objects, OpenGL, geometric transformations, image synthesis, rendering and lighting, and virtual environments. Cross listed with CIS 455, IM 455. For cross-listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or CS 101 and CS 102 and CS 140, or consent of instructor."
+},
+{
+  "_id": "CIS 556",
+  "name": "Game Engine Programming",
+  "hours": "3 hours",
+  "description": "Advanced techniques and technologies for programming computer game engines, multi-user games, virtual environments, and virtual reality simulations. Cross listed with CIS 456, IM 456. For cross-listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or CIS 452 and CIS 455 or equivalents, or consent of instructor."
+},
+{
+  "_id": "CIS 557",
+  "name": "Digital Animation",
+  "hours": "3 hours",
+  "description": "A studio course exploring computer modeling and animation. Survey of the theory, history, and practice involved with creating quality modeling for print media, and also modeling and animation for time-based audio-visual media. Cross listed with CIS 457, IM 457. For cross-listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or ART 105 and ART 106 and IM 285, or consent of instructor."
+},
+{
+  "_id": "CIS 558",
+  "name": "Sounds Design",
+  "hours": "3 hours",
+  "description": "Theoretical and practical sound design. Music composition, field sound recording, studio tracking, aesthetic analysis of music, electronic sound generation. Digital game technologies, 3D sound processing and generative audio structures. Mixing in non-linear environments and final mastering. Cross listed with CIS 458, I M 458. For cross-listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Graduate standing in CS or CIS, or senior standing in CS or CIS, or IM 113 and IM 285, or consent of instructor."
+},
+{
+  "_id": "CIS 559",
+  "name": "Computer Game Capstone Project",
+  "hours": "3 hours",
+  "description": "Game development, including advanced game design, software development, and game production concepts. Integration of audio, visual, storytelling, programming, and design. Project builds within multi-disciplinary teams. Cross listed with CIS 459, IM 459. For cross-listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course. Prerequisite: Graduate standing in CS or CIS, or consent of instructor, or senior standing in CS or CIS and completion of all other coursework in game design minor or computer game technology minor, or senior standing in CS or CIS and completion of all other coursework in game design concentration or computer game technology concentration."
+},
+{
+  "_id": "CIS 571",
+  "name": "Database Management Systems",
+  "hours": "3 hours",
+  "description": "Relational database design, including entity relationship modeling and normalization. Structured query language (SQL) for creating and querying databases. Other topics include the theory of relational databases, including relational algebra, various loading and reporting utilities, and the implementation of database management systems, e.g., how query optimization works. Prerequisite: Graduate standing in CIS; or consent from department chair."
+},
+{
+  "_id": "CIS 572",
+  "name": "Computing Management: Systems, Technology, Services",
+  "hours": "3 hours",
+  "description": "Management of resources for computing; management of computer and information systems and technologies; planning for and management of computing services; operational considerations."
+},
+{
+  "_id": "CIS 573",
+  "name": "Quality Management in Computing",
+  "hours": "3 hours",
+  "description": "Quality management topics relevant to advanced computing and software/hardware systems, including functional and structural quality, quality factors, McCall's triangle of quality, ISO standards, software quality assurance and management, COCOMO models, DFSS, CMMI, quality measurements and metrics. Cross listed with CIS 473. For cross listed undergraduate/graduate courses, the graduate level course will have additional academic requirements beyond those of the undergraduate course."
+},
+{
+  "_id": "CIS 575",
+  "name": "Computer Information Systems Analysis, Design and Integration",
+  "hours": "3 hours",
+  "description": "Computer information systems analysis, design and integration including enterprise computer information systems types and architecture models, sourcing, development methodologies and life cycle, requirements, analysis and design models, conceptual and logic data modeling, testing and quality assurance, validation and verification. Systems implementation, integration, deployment and maintenance, metrics and economics. Cross listed with CIS 475 course. For cross listed undergraduate/graduate courses, the graduate level course will have additional academic requirements beyond those of the undergraduate course."
+},
+{
+  "_id": "CIS 576",
+  "name": "Data Management",
+  "hours": "3 hours",
+  "description": "A study of techniques and processes to help organize, access, protect, and analyze data. Describe data collection, storage, and retrieval methods. Explain data integration and interoperability, including data transfer and exchange standards. Understand why it is important to define policies and procedures for data governance, quality, standards, security, and privacy. Describe different strategies for data analysis. Topics include data warehousing, database registries, data mining, NoSQL, and other Data Science techniques. Cross-listed with CIS 476."
+},
+{
+  "_id": "CIS 580",
+  "name": "Digital Society and Computer Law",
+  "hours": "3 hours",
+  "description": "Ethical considerations of computer scientists and computer-related security and privacy issues; copyright, patent, trademark, and trade secret issues, deceptive trade practices, computer crime, contract issues, venture capitalists, tax issues, computer torts, constitutional issues, and international trade considerations."
+},
+{
+  "_id": "CIS 588",
+  "name": "Introduction to Expert Systems",
+  "hours": "3 hours",
+  "description": "Knowledge-based systems design and implementation; expert systems shells and programming environments; validation and implementation of expert systems; case studies/laboratories. Cross-listed as IME 568."
+},
+{
+  "_id": "CIS 591",
+  "name": "CIS and IT Project Management",
+  "hours": "3 hours",
+  "description": "Methods of PMBOK-based management of computer information systems and/or information technology design and development projects, including systems view, main project management process groups and knowledge areas, management plans, project metrics and estimates."
+},
+{
+  "_id": "CIS 595",
+  "name": "Software and Web Applications Security",
+  "hours": "3 hours",
+  "description": "Various security concepts, models, methods, technologies, and tools used to design, develop, test, implement, and maintain secure software and Web applications. Topics include but are not limited to threats posed to software and Web applications, software security concepts and protection mechanisms, trust and threat model, authentication and authorization, software risks assessment and management models, secure programming and software development styles and tools. Cross listed with CIS 495."
+},
+{
+  "_id": "CIS 607",
+  "name": "File Organization and Management",
+  "hours": "3 hours",
+  "description": "File organizations and access methods. Sort/merge operations; hashing schemes for storage and retrieval. Projects involve data validation; creation and updating of files; simulation and/or implementation of direct and indexed files."
+},
+{
+  "_id": "CIS 681",
+  "name": "Professional Practicum in Computer Information Systems",
+  "hours": "0 hours",
+  "description": "Special projects under Smith Career Center supervision on student's professional practicum in corporate/business environment in computer information systems and/or information technology, with near-term economic benefit. Satisfactory/Unsatisfactory."
+},
+{
+  "_id": "CIS 697",
+  "name": "Advanced Topics in Computer Information Systems",
+  "hours": "3 hours",
+  "description": "Special projects under staff supervision on advanced problems and emerging technologies in computer information systems. May be repeated under different topics for a maximum of 6 semester hours."
+},
+{
+  "_id": "CIS 698",
+  "name": "Directed Individual Studies in Computer Information Systems",
+  "hours": "1 hour",
+  "description": "Individual study or research/development project in an area of computer information systems relevant to the student's professional goals and not covered in a formal course offered by the Department. May be repeated twice for a maximum of 6 credit hours."
+},
+{
+  "_id": "CIS 699",
+  "name": "Thesis in Computer Information Systems",
+  "hours": "3 hours",
+  "description": "Computer information systems research and thesis preparation. Required of candidates choosing the thesis option. Repeatable to a maximum of 6 semester hours."
+}]

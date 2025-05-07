@@ -1,0 +1,6 @@
+{"_id":{"$oid":"68195fdce5952330b9537dd0"},"username":"admin","password":"$2b$10$ThygoN0KTFMN1AoZpwVFf.oj2juPdQcXjHOMx6Dt44d5HYygxTVGy","role":"admin","__v":0}
+{"_id":{"$oid":"681961331ce108692d7461f8"},"username":"test","password":"$2b$10$dTP1nFU2qVpLY9k1KX/6mehxZcoVrtuNWt/cDLEy9zynjpne9SUwO","role":"editor","__v":0}
+{"_id":{"$oid":"6819f40e33438ef9104f0d39"},"username":"testiiing","password":"$2b$10$IAEglEcIGuxhmpNkjOFjWePHRCpQnajUrjUkusv1XBcN.ICNsaynW","role":"editor","__v":0}
+{"_id":{"$oid":"681a2bf0410a19fc78ef45f9"},"username":"testuser","password":"$2b$10$HLwfU9sSFBQdwQcaPT.3KOtZxNnxasGD6ZqKne3iLIWPEOIMHEzzW","role":"editor","__v":0}
+{"_id":{"$oid":"681a3729410a19fc78ef461d"},"username":"amorales","password":"$2b$10$p7KJqPCi2RYl/Dru0QFATettlJt/ouwTS.Gjywz5qy19HJnQw9RmW","role":"editor","__v":0}
+{"_id":{"$oid":"681a4ded410a19fc78ef4638"},"username":"pferb","password":"$2b$10$irX0eM7miOx8kst.XDEtx.nW40dMPN.43YQEI8DB0Lh4.Tm5iVt8.","role":"editor","__v":0}

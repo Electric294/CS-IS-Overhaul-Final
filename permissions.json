@@ -1,0 +1,5 @@
+{"_id":{"$oid":"68197f6b19bda29c6e433ac2"},"sectionId":{"$oid":"6814049a3173fb60f6b5f89b"},"userId":{"$oid":"68195fdce5952330b9537dd0"},"__v":0,"canEdit":true}
+{"_id":{"$oid":"6819850319bda29c6e433ac3"},"userId":{"$oid":"68195fdce5952330b9537dd0"},"sectionId":{"$oid":"681654156986699c6bf2e4a5"},"__v":0,"canEdit":true}
+{"_id":{"$oid":"6819f98e19bda29c6e433ac4"},"userId":{"$oid":"681961331ce108692d7461f8"},"sectionId":{"$oid":"6814049a3173fb60f6b5f89b"},"__v":0,"canEdit":true}
+{"_id":{"$oid":"6819fa2519bda29c6e433ac5"},"sectionId":{"$oid":"681654156986699c6bf2e4a5"},"userId":{"$oid":"6819f40e33438ef9104f0d39"},"__v":0,"canEdit":true}
+{"_id":{"$oid":"681a1b3219bda29c6e433ac6"},"userId":{"$oid":"6819f40e33438ef9104f0d39"},"sectionId":{"$oid":"681a1aecaf51cf3d0c51d807"},"__v":0,"canEdit":true}
